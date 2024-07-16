@@ -1,37 +1,0 @@
-Script started on Tue Jul 16 17:41:38 2024
-(base) ]0;user@user-OptiPlex-7050: ~/Documents/Deepak kumar Dev/DataNLP[01;32muser@user-OptiPlex-7050[00m:[01;34m~/Documents/Deepak kumar Dev/DataNLP[00m$ deactivate
-DeprecationWarning: 'source deactivate' is deprecated. Use 'conda deactivate'.
-(base) ]0;user@user-OptiPlex-7050: ~/Documents/Deepak kumar Dev/DataNLP[01;32muser@user-OptiPlex-7050[00m:[01;34m~/Documents/Deepak kumar Dev/DataNLP[00m$ conda deactivate
-]0;user@user-OptiPlex-7050: ~/Documents/Deepak kumar Dev/DataNLP[01;32muser@user-OptiPlex-7050[00m:[01;34m~/Documents/Deepak kumar Dev/DataNLP[00m$ 
-]0;user@user-OptiPlex-7050: ~/Documents/Deepak kumar Dev/DataNLP[01;32muser@user-OptiPlex-7050[00m:[01;34m~/Documents/Deepak kumar Dev/DataNLP[00m$ conda activate myenv
-Could not find conda environment: myenv
-You can list all discoverable environments with `conda info --envs`.
-
-]0;user@user-OptiPlex-7050: ~/Documents/Deepak kumar Dev/DataNLP[01;32muser@user-OptiPlex-7050[00m:[01;34m~/Documents/Deepak kumar Dev/DataNLP[00m$ conda activate myenv[K[K[K[K[Kbase
-(base) ]0;user@user-OptiPlex-7050: ~/Documents/Deepak kumar Dev/DataNLP[01;32muser@user-OptiPlex-7050[00m:[01;34m~/Documents/Deepak kumar Dev/DataNLP[00m$ conda activate basemyenv[4Pdeactivate
-]0;user@user-OptiPlex-7050: ~/Documents/Deepak kumar Dev/DataNLP[01;32muser@user-OptiPlex-7050[00m:[01;34m~/Documents/Deepak kumar Dev/DataNLP[00m$ conda activate myenv
-Could not find conda environment: myenv
-You can list all discoverable environments with `conda info --envs`.
-
-]0;user@user-OptiPlex-7050: ~/Documents/Deepak kumar Dev/DataNLP[01;32muser@user-OptiPlex-7050[00m:[01;34m~/Documents/Deepak kumar Dev/DataNLP[00m$ conda activate myenv[4Pdeactivateactivate base
-(base) ]0;user@user-OptiPlex-7050: ~/Documents/Deepak kumar Dev/DataNLP[01;32muser@user-OptiPlex-7050[00m:[01;34m~/Documents/Deepak kumar Dev/DataNLP[00m$ echo "# UoHProject" >> README.md
-(base) ]0;user@user-OptiPlex-7050: ~/Documents/Deepak kumar Dev/DataNLP[01;32muser@user-OptiPlex-7050[00m:[01;34m~/Documents/Deepak kumar Dev/DataNLP[00m$ git init
-Reinitialized existing Git repository in /home/user/Documents/Deepak kumar Dev/DataNLP/.git/
-(base) ]0;user@user-OptiPlex-7050: ~/Documents/Deepak kumar Dev/DataNLP[01;32muser@user-OptiPlex-7050[00m:[01;34m~/Documents/Deepak kumar Dev/DataNLP[00m$ git add README.md
-(base) ]0;user@user-OptiPlex-7050: ~/Documents/Deepak kumar Dev/DataNLP[01;32muser@user-OptiPlex-7050[00m:[01;34m~/Documents/Deepak kumar Dev/DataNLP[00m$ git commit -m "first commit"
--M main
-git remote add origin git@github.com:DeepakkumarDev/UoHProject.git
-git push -u origin main[main 80c4520] first commit
- 1 file changed, 1 insertion(+)
-(base) ]0;user@user-OptiPlex-7050: ~/Documents/Deepak kumar Dev/DataNLP[01;32muser@user-OptiPlex-7050[00m:[01;34m~/Documents/Deepak kumar Dev/DataNLP[00m$ git branch -M main
-(base) ]0;user@user-OptiPlex-7050: ~/Documents/Deepak kumar Dev/DataNLP[01;32muser@user-OptiPlex-7050[00m:[01;34m~/Documents/Deepak kumar Dev/DataNLP[00m$ git remote add origin git@github.com:DeepakkumarDev/UoHProject.git
-fatal: remote origin already exists.
-(base) ]0;user@user-OptiPlex-7050: ~/Documents/Deepak kumar Dev/DataNLP[01;32muser@user-OptiPlex-7050[00m:[01;34m~/Documents/Deepak kumar Dev/DataNLP[00m$ git push -u origin main
-Counting objects: 6, done.
-Delta compression using up to 4 threads.
-Compressing objects:  50% (1/2)   Compressing objects: 100% (2/2)   Compressing objects: 100% (2/2), done.
-Writing objects:  16% (1/6)   Writing objects:  33% (2/6)   Writing objects:  50% (3/6)   Writing objects:  66% (4/6)   Writing objects:  83% (5/6)   Writing objects: 100% (6/6)   Writing objects: 100% (6/6), 475 bytes | 0 bytes/s, done.
-Total 6 (delta 0), reused 0 (delta 0)
-remote: To https://github.com/DeepakkumarDev/UoHProject.git
- * [new branch]      main -> main
-Branch main set up to track remote branch main from or
